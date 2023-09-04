@@ -4,21 +4,7 @@ Bem-vindo ao repositório de Processamento Digital de Sinais (DSP) em Python! Aq
 
 ## Visão Geral
 
-Este repositório é uma coleção de notebooks, scripts e exemplos práticos que abordam conceitos fundamentais de Processamento Digital de Sinais e Sistemas. O objetivo principal é fornecer recursos e código prático para ajudar estudantes, engenheiros e entusiastas a compreender e aplicar técnicas de DSP em Python.
-
-## Conteúdo
-
-O repositório está organizado em pastas com os seguintes temas:
-
-1. **Fundamentos de DSP**: Esta seção abrange os conceitos básicos de DSP, incluindo amostragem, teorema da amostragem, transformada de Fourier discreta (DFT), transformada rápida de Fourier (FFT) e filtros digitais.
-
-2. **Sinais e Sistemas**: Aqui você encontrará notebooks e exemplos relacionados à análise de sinais e sistemas, incluindo sinais discretos, convolução, resposta em frequência e estabilidade de sistemas.
-
-3. **Processamento de Sinais de Áudio**: Esta seção é dedicada ao processamento de sinais de áudio, como manipulação de arquivos de áudio, extração de recursos de áudio, filtragem de áudio e técnicas de processamento de voz.
-
-4. **Processamento de Sinais de Imagem**: Nesta parte, você encontrará recursos relacionados ao processamento de sinais de imagem, incluindo manipulação de imagens digitais, filtragem de imagens, segmentação e detecção de bordas.
-
-5. **Aplicações de DSP**: Aqui você encontrará exemplos práticos de aplicação de DSP em áreas como telecomunicações, processamento de áudio, processamento de imagem e muito mais.
+Este repositório é uma coleção de notebooks, scripts e exemplos práticos que abordam conceitos fundamentais de Processamento Digital de Sinais e Sistemas. O objetivo principal é fornecer recursos e código prático para ajudar a compreender e aplicar técnicas de DSP em Python.
 
 ## Requisitos
 
@@ -43,9 +29,7 @@ Aqui estão algumas referências úteis para aprender mais sobre DSP e Python:
 - Documentação oficial do SciPy: [https://docs.scipy.org/doc](https://docs.scipy.org/doc)
 - Documentação oficial do Matplotlib: [https://matplotlib.org/stable/contents.html](https://matplotlib.org/stable/contents.html)
 
-## Cont
-
-ato
+## Contato
 
 Se você tiver alguma dúvida, sugestão ou feedback, sinta-se à vontade para entrar em contato conosco. Você pode nos encontrar nos seguintes canais:
 
